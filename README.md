@@ -130,7 +130,12 @@ using data visualization techniques.
 
 ---
 
-## 🎯 Current Focus
+  <a href="https://github.com/AlokYaduvanshi14">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="mailto:yaduvanshialok92@gmail.com">
+    <img src="https:## 🎯 Current Focus
 
 ```text
 Data Analytics
@@ -144,27 +149,24 @@ Data Visualization
 Power BI / Tableau
       ↓
 Business Insights
-
----
+```
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/alok-yaduvanshi-b73528336">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-<a href="https://www.linkedin.com/in/alok-yaduvanshi-b73528336">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/AlokYaduvanshi14">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
-<a href="https://github.com/AlokYaduvanshi14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:yaduvanshialok92@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:yaduvanshialok92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
